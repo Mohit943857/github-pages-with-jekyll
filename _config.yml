@@ -1,4 +1,5 @@
-___
+---
+
 title: "Mohit_portfolio"
 date: 2018-12-27
 author: MKIE
@@ -14,4 +15,4 @@ github_username:  https://www.github.com/Mohit943857
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-___
+---
